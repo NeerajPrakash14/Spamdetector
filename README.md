@@ -1,0 +1,2 @@
+# Spamdetector
+heroku-app
